@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/MP4 Display`.
+Working copy from my Historical Dev folder `VB/MP4 Display`.
 Company names in `.vbp` files: Empired Limited.
 
 ## License
